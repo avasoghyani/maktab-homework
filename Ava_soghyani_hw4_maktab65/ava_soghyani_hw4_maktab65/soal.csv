@@ -1,0 +1,16 @@
+kind,question,answer
+short answer,what is the sky color?,blue
+short answer,where is the capital of iran?,tehran
+short answer,where is the capital of france?,paris
+short answer,what is the first day of the week in iran?,saturday
+short answer,what is your country name?,iran
+yesno,is the sky blue?,yes
+yesno,is the bannana yellow?,yes
+yesno,is paris the capital of iran?,no
+yesno,do you have 10 finger?,yes
+yesno,is the week 8 days?,no
+multiple,whats the sky color? 1-yellow  2-blue   3-green  4-red,2
+multiple,what's the capital of iran   1-gorgan  2-sare   3-tehran  4-tabriz,3
+multiple,what is the iraninan language?   1-pertion  2-duich   3-arabic  4-english,1
+multiple,what is the bannana color? 1-yellow  2-black  3-red  4-blue,1
+multiple,how many cities are in iran?  1-29  2-31  3-40  4-30,2
